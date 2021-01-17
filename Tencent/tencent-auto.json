@@ -124,7 +124,7 @@
                 "treatment":0
             },
             {
-                "res_path":"*UrlCache*",
+                "res_path":"*\\CryptnetUrlCache\\*",
                 "montype":1,
                 "action_type":15,
                 "treatment":3
@@ -317,6 +317,60 @@
             },
             {
                 "res_path":"*\\Windows\\SystemResources\\*.mun",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*GlobalDataRoot*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Java\\jre*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Mozilla Firefox\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\BaiduNetdisk\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\TaobaoProtect\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Temporary Internet Files\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\PepperFlash\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Microsoft\\Windows\\Cookies\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Prefetch\\TIM*",
                 "montype":1,
                 "action_type":2,
                 "treatment":0
