@@ -260,6 +260,60 @@
                 "montype":1,
                 "action_type":15,
                 "treatment":0
+            },
+            {
+                "res_path":"*hadowsock*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*rivox*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*transfer_log.json",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*pac.txt",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*gui*onfig.json",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*2ray*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*Mikrotik*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*.pem",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*.ppk",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
             }
         ]
     }
