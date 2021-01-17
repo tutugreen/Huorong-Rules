@@ -1,4 +1,4 @@
-﻿{
+{
     "ver":"5.0",
     "tag":"hipsuser_auto",
     "data":{
@@ -229,6 +229,36 @@
                 "res_path":"*Prefetch\\TX*",
                 "montype":1,
                 "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Sangfor\\SSL\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\SafeDog\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\360Safe\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\QQMailPlugin\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\WINDOWS\\TEMP\\*",
+                "montype":1,
+                "action_type":15,
                 "treatment":0
             }
         ]
