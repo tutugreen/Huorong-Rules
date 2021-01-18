@@ -374,6 +374,12 @@
                 "montype":1,
                 "action_type":2,
                 "treatment":0
+            },
+            {
+                "res_path":"*\Sogou*\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
             }
         ]
     }
