@@ -416,6 +416,47 @@
                 "montype":1,
                 "action_type":15,
                 "treatment":0
+                        },
+                "res_path":"*\\Thunder Network\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Microsoft Office\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\VideoLAN\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\SecoClient\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Macromedia\\Flash Player\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Adobe\\Flash Player\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Microsoft\\Edge\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
             }
         ]
     }
