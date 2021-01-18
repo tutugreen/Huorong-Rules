@@ -380,6 +380,42 @@
                 "montype":1,
                 "action_type":15,
                 "treatment":3
+            },
+            {
+                "res_path":"*\\Razer\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\National Instruments\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*Microsoft*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Internet Download Manager\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\NVIDIA Corporation\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Temp\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
             }
         ]
     }
