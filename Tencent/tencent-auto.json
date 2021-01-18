@@ -376,24 +376,47 @@
                 "treatment":0
             },
             {
-                "res_path":"*\\Microsoft\\Edge\\*",
+                "res_path":"*\\Sogou*\\*",
                 "montype":1,
                 "action_type":15,
                 "treatment":3
             },
             {
-                "res_path":"*\\Macromedia\\Flash Player\\*",
+                "res_path":"*\\Razer\\*",
                 "montype":1,
                 "action_type":15,
-                "treatment":0
+                "treatment":3
             },
             {
-                "res_path":"*\\Adobe\\Flash Player\\*",
+                "res_path":"*\\National Instruments\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*Microsoft*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Internet Download Manager\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\NVIDIA Corporation\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Temp\\*",
                 "montype":1,
                 "action_type":15,
                 "treatment":0
-            },
-                        {
+                        },
                 "res_path":"*\\Thunder Network\\*",
                 "montype":1,
                 "action_type":15,
@@ -413,6 +436,24 @@
             },
             {
                 "res_path":"*\\SecoClient\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Macromedia\\Flash Player\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Adobe\\Flash Player\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Microsoft\\Edge\\*",
                 "montype":1,
                 "action_type":15,
                 "treatment":3
