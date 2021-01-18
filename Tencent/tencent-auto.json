@@ -376,7 +376,7 @@
                 "treatment":0
             },
             {
-                "res_path":"*\Sogou*\*",
+                "res_path":"*\\Sogou*\\*",
                 "montype":1,
                 "action_type":15,
                 "treatment":3
