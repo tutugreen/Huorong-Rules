@@ -458,6 +458,30 @@
                 "montype":1,
                 "action_type":15,
                 "treatment":3
+            },
+            {
+                "res_path":"*\\QMProxyAccLogObserver.log",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\QMLogEx\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*Prefetch\\QBCLIENT*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*Prefetch\\QMPROXY*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
             }
         ]
     }
