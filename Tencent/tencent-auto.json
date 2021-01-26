@@ -136,6 +136,12 @@
                 "treatment":3
             },
             {
+                "res_path":"*hosts*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
                 "res_path":"*qqclient*",
                 "montype":1,
                 "action_type":15,
