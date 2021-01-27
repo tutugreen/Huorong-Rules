@@ -1,0 +1,20 @@
+{
+    "ver":"5.0",
+    "tag":"hipsuser",
+    "data":[
+        {
+            "id":13,
+            "power":1,
+            "name":"Say No To Douyu",
+            "procname":"*\\DouyuPCClient\\*",
+            "treatment":1,
+            "policies":[
+                {
+                    "montype":1,
+                    "action_type":15,
+                    "res_path":"*"
+                }
+            ]
+        }
+    ]
+}
