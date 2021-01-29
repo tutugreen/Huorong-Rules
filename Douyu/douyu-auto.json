@@ -16,6 +16,12 @@
                 "treatment":0
             },
             {
+                "res_path":"*\\.xp2p\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
                 "res_path":"*\\qtshadercache\\*",
                 "montype":1,
                 "action_type":15,
