@@ -1,3 +1,4 @@
 # Huorong-Rules
 
-目前只整了个 Tencent 规则（
+Tencent 腾讯（主要QQ、Tim、Wechat}
+Thunder 迅雷（基本所有版本都适用吧）
