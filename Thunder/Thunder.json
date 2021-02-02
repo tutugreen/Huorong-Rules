@@ -1,0 +1,20 @@
+﻿{
+    "ver":"5.0",
+    "tag":"hipsuser",
+    "data":[
+        {
+            "id":6,
+            "power":1,
+            "name":"Thunder",
+            "procname":"*\\Thunder Network\\*",
+            "treatment":1,
+            "policies":[
+                {
+                    "montype":1,
+                    "action_type":15,
+                    "res_path":"*"
+                }
+            ]
+        }
+    ]
+}
