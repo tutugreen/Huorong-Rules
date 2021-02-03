@@ -170,6 +170,12 @@
                 "montype":1,
                 "action_type":15,
                 "treatment":3
+            },
+            {
+                "res_path":"*\\NVIDIA Corporation\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
             }
         ]
     }
