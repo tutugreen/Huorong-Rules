@@ -550,13 +550,25 @@
                 "treatment":3
             },
             {
-                "res_path":"*\\Users\\Lenovo\\Desktop\\*",
+                "res_path":"*\\Users\\*\\Desktop\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*json*",
                 "montype":1,
                 "action_type":15,
                 "treatment":3
             },
             {
                 "res_path":"*np*.dll*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            }
+            {
+                "res_path":"*tst.tmp*",
                 "montype":1,
                 "action_type":15,
                 "treatment":3
