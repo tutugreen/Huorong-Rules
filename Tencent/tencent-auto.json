@@ -1,4 +1,4 @@
-{
+﻿{
     "ver":"5.0",
     "tag":"hipsuser_auto",
     "data":{
@@ -548,6 +548,12 @@
                 "montype":1,
                 "action_type":15,
                 "treatment":3
+            },
+            {
+                "res_path":"*\\NVIDIA\\GLCache\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
             }
         ]
     }
