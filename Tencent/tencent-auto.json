@@ -124,7 +124,7 @@
                 "treatment":0
             },
             {
-                "res_path":"*\\CryptnetUrlCache\\*",
+                "res_path":"*UrlCache*",
                 "montype":1,
                 "action_type":15,
                 "treatment":3
@@ -262,277 +262,61 @@
                 "treatment":0
             },
             {
-                "res_path":"*hadowsock*",
+                "res_path":"C:\\Users\\86180\\AppData\\Local\\xweb\\web\\GPUCache\\*",
+                "montype":1,
+                "action_type":4,
+                "treatment":0
+            },
+            {
+                "res_path":"C:\\Users\\86180\\AppData\\Local\\xweb\\web\\Cache\\*",
+                "montype":1,
+                "action_type":4,
+                "treatment":0
+            },
+            {
+                "res_path":"C:\\ProgramData\\NVIDIA Corporation\\Drs\\*",
                 "montype":1,
                 "action_type":15,
                 "treatment":3
             },
             {
-                "res_path":"*rivox*",
+                "res_path":"C:\\Intel\\igfx\\*",
                 "montype":1,
-                "action_type":15,
+                "action_type":1,
                 "treatment":3
             },
             {
-                "res_path":"*transfer_log.json",
+                "res_path":"C:\\Users\\86180\\AppData\\Local\\xweb\\web\\*",
                 "montype":1,
-                "action_type":15,
+                "action_type":2,
                 "treatment":3
             },
             {
-                "res_path":"*pac.txt",
+                "res_path":"*\\Windows Defender\\*",
                 "montype":1,
-                "action_type":15,
+                "action_type":2,
                 "treatment":3
             },
             {
-                "res_path":"*gui*onfig.json",
+                "res_path":"*\\xweb\\*",
                 "montype":1,
                 "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\steam\\*",
+                "montype":1,
+                "action_type":2,
                 "treatment":3
             },
             {
-                "res_path":"*2ray*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*Mikrotik*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*.pem",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*.ppk",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\Windows\\SystemResources\\*.mun",
+                "res_path":"C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\*",
                 "montype":1,
                 "action_type":2,
                 "treatment":0
             },
             {
-                "res_path":"*GlobalDataRoot*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\Java\\jre*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\Mozilla Firefox\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\BaiduNetdisk\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\TaobaoProtect\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\Temporary Internet Files\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\PepperFlash\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\Microsoft\\Windows\\Cookies\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\Prefetch\\TIM*",
-                "montype":1,
-                "action_type":2,
-                "treatment":0
-            },
-            {
-                "res_path":"*\\Sogou*\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\Razer\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\National Instruments\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*Microsoft*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\Internet Download Manager\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\NVIDIA Corporation\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\Temp\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":0
-            },
-            {
-                "res_path":"*\\Thunder Network\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\Microsoft Office\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\VideoLAN\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\SecoClient\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\Macromedia\\Flash Player\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":0
-            },
-            {
-                "res_path":"*\\Adobe\\Flash Player\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":0
-            },
-            {
-                "res_path":"*\\Microsoft\\Edge\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\QMProxyAccLogObserver.log",
-                "montype":1,
-                "action_type":15,
-                "treatment":0
-            },
-            {
-                "res_path":"*\\QMLogEx\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":0
-            },
-            {
-                "res_path":"*Prefetch\\QBCLIENT*",
-                "montype":1,
-                "action_type":15,
-                "treatment":0
-            },
-            {
-                "res_path":"*Prefetch\\QMPROXY*",
-                "montype":1,
-                "action_type":15,
-                "treatment":0
-            },
-            {
-                "res_path":"*\\AMD\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\Program Files\\*\\*.ttf",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\Program Files\\*\\*.otf",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\xw_log\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\Program Files (x86)\\*\\*.ttf",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\Program Files (x86)\\*\\*.otf",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\ProgramData\\*\\*.ttf",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\ProgramData\\*\\*.otf",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*MacType*",
+                "res_path":"C:\\Users\\86180\\AppData\\Local\\Microsoft\\Windows\\Explorer\\*",
                 "montype":1,
                 "action_type":2,
                 "treatment":0
