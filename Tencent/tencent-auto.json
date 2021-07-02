@@ -1,4 +1,4 @@
-{
+﻿{
     "ver":"5.0",
     "tag":"hipsuser_auto",
     "data":{
@@ -66,7 +66,7 @@
             {
                 "res_path":"*\\Windows\\SysWOW64\\*",
                 "montype":1,
-                "action_type":2,
+                "action_type":3,
                 "treatment":0
             },
             {
@@ -535,6 +535,24 @@
                 "res_path":"*MacType*",
                 "montype":1,
                 "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\xweb\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Steam\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\NVIDIA\\*Cache\\*",
+                "montype":1,
+                "action_type":15,
                 "treatment":0
             }
         ]
