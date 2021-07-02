@@ -550,7 +550,7 @@
                 "treatment":3
             },
             {
-                "res_path":"*\\NVIDIA\\GLCache\\*",
+                "res_path":"*\\NVIDIA\\*Cache\\*",
                 "montype":1,
                 "action_type":15,
                 "treatment":0
