@@ -182,6 +182,42 @@
                 "montype":1,
                 "action_type":2,
                 "treatment":0
+            },
+            {
+                "res_path":"*win.ini*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\ESET\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Windows Defender\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*iconcache.db*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*.torrent",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*sysmain.sdb*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
             }
         ]
     }

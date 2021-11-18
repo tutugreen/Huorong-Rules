@@ -220,7 +220,7 @@
                 "treatment":3
             },
             {
-                "res_path":"*\\xwalk\\*",
+                "res_path":"*\\AppData\\Local\\xwalk\\*",
                 "montype":1,
                 "action_type":15,
                 "treatment":0
@@ -566,9 +566,69 @@
                 "montype":1,
                 "action_type":15,
                 "treatment":3
-            }
+            },
             {
                 "res_path":"*tst.tmp*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*hosts*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*np*.dll*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*tmp_*.tmp*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*Accessibility.api*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*dock*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\QQMusicCache\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\WNS\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\AppData\\Local\\xweb\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\AppData\\Local\\xweb_webview\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\nvidia\\*",
                 "montype":1,
                 "action_type":15,
                 "treatment":3
