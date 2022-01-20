@@ -2,6 +2,14 @@
     "ver":"5.0",
     "tag":"hipsuser_auto",
     "data":{
+        "*QQGuild.exe*":[
+            {
+                "res_path":"*\\qq_guild\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            }
+        ],
         "*Tencent*":[
             {
                 "res_path":"*\\Tencent\\*",
