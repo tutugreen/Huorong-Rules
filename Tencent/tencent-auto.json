@@ -544,6 +544,12 @@
                 "montype":1,
                 "action_type":2,
                 "treatment":0
+            },
+            {
+                "res_path":"*\\QQ\\Bin\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
             }
         ]
     }
