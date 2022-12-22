@@ -22,6 +22,12 @@
                 "treatment":0
             },
             {
+                "res_path":"*\\QQMusicCache\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
                 "res_path":"*chatpic*",
                 "montype":1,
                 "action_type":15,
