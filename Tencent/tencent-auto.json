@@ -568,6 +568,12 @@
                 "treatment":3
             },
             {
+                "res_path":"*\\ProgramData\\Microsoft\\Crypto\\RSA\\MachineKeys\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
                 "res_path":"*MacType*",
                 "montype":1,
                 "action_type":2,
