@@ -388,10 +388,16 @@
                 "treatment":3
             },
             {
-                "res_path":"*\\NVIDIA Corporation\\*",
+                "res_path":"*\\NVIDIA Corporation\\Drs*",
                 "montype":1,
-                "action_type":15,
-                "treatment":3
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\NVIDIA Corporation\\Drs\\nvAppTimestamps",
+                "montype":1,
+                "action_type":4,
+                "treatment":0
             },
             {
                 "res_path":"*\\Temp\\*",
