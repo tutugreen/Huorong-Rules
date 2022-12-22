@@ -166,6 +166,24 @@
                 "treatment":3
             },
             {
+                "res_path":"*\\AppData\\Local\\D3DSCache\\*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\AppData\\Local\\NVIDIA\\DXCache\\*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\AppData\\Local\\NVIDIA\\GLCache\\*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
                 "res_path":"*\\AppData\\Roaming\\qq_guild",
                 "montype":1,
                 "action_type":15,
@@ -400,18 +418,6 @@
                 "treatment":3
             },
             {
-                "res_path":"*\\NVIDIA Corporation\\Drs*",
-                "montype":1,
-                "action_type":2,
-                "treatment":0
-            },
-            {
-                "res_path":"*\\NVIDIA Corporation\\Drs\\nvAppTimestamps",
-                "montype":1,
-                "action_type":4,
-                "treatment":0
-            },
-            {
                 "res_path":"*\\Temp\\*",
                 "montype":1,
                 "action_type":15,
@@ -577,6 +583,18 @@
                 "res_path":"*\\ProgramData\\Microsoft\\Crypto\\RSA\\MachineKeys\\*",
                 "montype":1,
                 "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\ProgramData\\NVIDIA Corporation\\Drs*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\ProgramData\\NVIDIA Corporation\\Drs\\nvAppTimestamps",
+                "montype":1,
+                "action_type":4,
                 "treatment":0
             },
             {
