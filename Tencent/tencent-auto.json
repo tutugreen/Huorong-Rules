@@ -102,8 +102,8 @@
             {
                 "res_path":"*\\WindowsShell.Manifest",
                 "montype":1,
-                "action_type":15,
-                "treatment":3
+                "action_type":2,
+                "treatment":0
             },
             {
                 "res_path":"*temphis.db",
