@@ -466,25 +466,19 @@
                 "treatment":0
             },
             {
+                "res_path":"*\\Prefetch\\COURGETTE*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
                 "res_path":"*\\Prefetch\\QQ*",
                 "montype":1,
                 "action_type":15,
                 "treatment":0
             },
             {
-                "res_path":"*\\Prefetch\\TX*",
-                "montype":1,
-                "action_type":2,
-                "treatment":0
-            },
-            {
                 "res_path":"*\\Prefetch\\QMBROWSER*",
-                "montype":1,
-                "action_type":2,
-                "treatment":0
-            },
-            {
-                "res_path":"*\\Prefetch\\TIM*",
                 "montype":1,
                 "action_type":2,
                 "treatment":0
@@ -499,6 +493,30 @@
                 "res_path":"*\\Prefetch\\QMPROXY*",
                 "montype":1,
                 "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Prefetch\\TIM*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Prefetch\\TX*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Prefetch\\WE*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Prefetch\\XNNEXTERNAL*",
+                "montype":1,
+                "action_type":2,
                 "treatment":0
             },
             {
