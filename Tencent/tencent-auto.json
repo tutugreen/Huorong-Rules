@@ -34,12 +34,6 @@
                 "treatment":0
             },
             {
-                "res_path":"*Prefetch\\QQ*",
-                "montype":1,
-                "action_type":15,
-                "treatment":0
-            },
-            {
                 "res_path":"*WeChat*",
                 "montype":1,
                 "action_type":15,
@@ -226,18 +220,6 @@
                 "treatment":3
             },
             {
-                "res_path":"*Prefetch\\TX*",
-                "montype":1,
-                "action_type":2,
-                "treatment":0
-            },
-            {
-                "res_path":"*Prefetch\\QMBROWSER*",
-                "montype":1,
-                "action_type":2,
-                "treatment":0
-            },
-            {
                 "res_path":"*\\Sangfor\\SSL\\*",
                 "montype":1,
                 "action_type":15,
@@ -376,12 +358,6 @@
                 "treatment":3
             },
             {
-                "res_path":"*Prefetch\\TIM*",
-                "montype":1,
-                "action_type":2,
-                "treatment":0
-            },
-            {
                 "res_path":"*\\Sogou*\\*",
                 "montype":1,
                 "action_type":15,
@@ -478,13 +454,37 @@
                 "treatment":0
             },
             {
-                "res_path":"*Prefetch\\QBCLIENT*",
+                "res_path":"*\\Prefetch\\QQ*",
                 "montype":1,
                 "action_type":15,
                 "treatment":0
             },
             {
-                "res_path":"*Prefetch\\QMPROXY*",
+                "res_path":"*\\Prefetch\\TX*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Prefetch\\QMBROWSER*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Prefetch\\TIM*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Prefetch\\QBCLIENT*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Prefetch\\QMPROXY*",
                 "montype":1,
                 "action_type":15,
                 "treatment":0
