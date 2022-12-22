@@ -172,13 +172,7 @@
                 "treatment":0
             },
             {
-                "res_path":"*\\AppData\\Local\\NVIDIA\\DXCache\\*",
-                "montype":1,
-                "action_type":2,
-                "treatment":0
-            },
-            {
-                "res_path":"*\\AppData\\Local\\NVIDIA\\GLCache\\*",
+                "res_path":"*\\AppData\\Local\\NVIDIA\\*Cache\\*",
                 "montype":1,
                 "action_type":2,
                 "treatment":0
