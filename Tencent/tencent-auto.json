@@ -1,4 +1,4 @@
-{
+﻿{
     "ver":"5.0",
     "tag":"hipsuser_auto",
     "data":{
@@ -66,7 +66,7 @@
             {
                 "res_path":"*\\Windows\\SysWOW64\\*",
                 "montype":1,
-                "action_type":3,
+                "action_type":15,
                 "treatment":0
             },
             {
@@ -174,7 +174,7 @@
             {
                 "res_path":"*\\AppData\\Local\\NVIDIA\\*Cache\\*",
                 "montype":1,
-                "action_type":2,
+                "action_type":10,
                 "treatment":0
             },
             {
@@ -598,6 +598,12 @@
                 "treatment":0
             },
             {
+                "res_path":"*\\ProgramData\\NVIDIA Corporation\\ShadowPlay\\CaptureCore.log",
+                "montype":1,
+                "action_type":4,
+                "treatment":0
+            },
+            {
                 "res_path":"*MacType*",
                 "montype":1,
                 "action_type":2,
@@ -625,6 +631,12 @@
                 "res_path":"*\\TPDownloadProxy\\*",
                 "montype":1,
                 "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*.ico",
+                "montype":1,
+                "action_type":2,
                 "treatment":0
             }
         ]
