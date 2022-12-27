@@ -1,4 +1,4 @@
-{
+﻿{
     "ver":"5.0",
     "tag":"hipsuser_auto",
     "data":{
@@ -22,6 +22,12 @@
                 "treatment":0
             },
             {
+                "res_path":"*\\QQMusicCache\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
                 "res_path":"*chatpic*",
                 "montype":1,
                 "action_type":15,
@@ -29,12 +35,6 @@
             },
             {
                 "res_path":"*etilqs*",
-                "montype":1,
-                "action_type":15,
-                "treatment":0
-            },
-            {
-                "res_path":"*Prefetch\\QQ*",
                 "montype":1,
                 "action_type":15,
                 "treatment":0
@@ -66,7 +66,7 @@
             {
                 "res_path":"*\\Windows\\SysWOW64\\*",
                 "montype":1,
-                "action_type":2,
+                "action_type":15,
                 "treatment":0
             },
             {
@@ -102,8 +102,8 @@
             {
                 "res_path":"*\\WindowsShell.Manifest",
                 "montype":1,
-                "action_type":15,
-                "treatment":3
+                "action_type":2,
+                "treatment":0
             },
             {
                 "res_path":"*temphis.db",
@@ -166,6 +166,24 @@
                 "treatment":3
             },
             {
+                "res_path":"*\\AppData\\Local\\D3DSCache\\*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\AppData\\Local\\NVIDIA\\*Cache\\*",
+                "montype":1,
+                "action_type":10,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\AppData\\Roaming\\qq_guild",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
                 "res_path":"*TXPLATFORM*",
                 "montype":1,
                 "action_type":15,
@@ -224,12 +242,6 @@
                 "montype":1,
                 "action_type":15,
                 "treatment":3
-            },
-            {
-                "res_path":"*Prefetch\\TX*",
-                "montype":1,
-                "action_type":2,
-                "treatment":0
             },
             {
                 "res_path":"*\\Sangfor\\SSL\\*",
@@ -370,12 +382,6 @@
                 "treatment":3
             },
             {
-                "res_path":"*\\Prefetch\\TIM*",
-                "montype":1,
-                "action_type":2,
-                "treatment":0
-            },
-            {
                 "res_path":"*\\Sogou*\\*",
                 "montype":1,
                 "action_type":15,
@@ -401,12 +407,6 @@
             },
             {
                 "res_path":"*\\Internet Download Manager\\*",
-                "montype":1,
-                "action_type":15,
-                "treatment":3
-            },
-            {
-                "res_path":"*\\NVIDIA Corporation\\*",
                 "montype":1,
                 "action_type":15,
                 "treatment":3
@@ -472,15 +472,57 @@
                 "treatment":0
             },
             {
-                "res_path":"*Prefetch\\QBCLIENT*",
+                "res_path":"*\\Prefetch\\COURGETTE*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Prefetch\\QQ*",
                 "montype":1,
                 "action_type":15,
                 "treatment":0
             },
             {
-                "res_path":"*Prefetch\\QMPROXY*",
+                "res_path":"*\\Prefetch\\QMBROWSER*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Prefetch\\QBCLIENT*",
                 "montype":1,
                 "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Prefetch\\QMPROXY*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Prefetch\\TIM*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Prefetch\\TX*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Prefetch\\WE*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\Prefetch\\XNNEXTERNAL*",
+                "montype":1,
+                "action_type":2,
                 "treatment":0
             },
             {
@@ -532,7 +574,67 @@
                 "treatment":3
             },
             {
+                "res_path":"*\\ProgramData\\A-Volute\\A-Volute.Nahimic\\Modules\\*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\ProgramData\\Microsoft\\Crypto\\RSA\\MachineKeys\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\ProgramData\\NVIDIA Corporation\\Drs*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\ProgramData\\NVIDIA Corporation\\Drs\\nvAppTimestamps",
+                "montype":1,
+                "action_type":4,
+                "treatment":0
+            },
+            {
+                "res_path":"*\\ProgramData\\NVIDIA Corporation\\ShadowPlay\\CaptureCore.log",
+                "montype":1,
+                "action_type":4,
+                "treatment":0
+            },
+            {
                 "res_path":"*MacType*",
+                "montype":1,
+                "action_type":2,
+                "treatment":0
+            },
+            {
+                "res_path":"*Steam*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*pcsuite*",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\Bonjour\\mdnsNSP.dll",
+                "montype":1,
+                "action_type":15,
+                "treatment":3
+            },
+            {
+                "res_path":"*\\TPDownloadProxy\\*",
+                "montype":1,
+                "action_type":15,
+                "treatment":0
+            },
+            {
+                "res_path":"*.ico",
                 "montype":1,
                 "action_type":2,
                 "treatment":0
